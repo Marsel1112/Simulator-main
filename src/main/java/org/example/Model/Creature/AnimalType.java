@@ -1,0 +1,5 @@
+package org.example.Model.Creature;
+
+public enum AnimalType {
+    ANACONDA,BEAR,BOAR,BUFFALO,CATERPILLAR,DEER,DUCK,EAGLE,FOX,GOAT,HORSE,MOUSE,PLANT,RABBIT,SHEEP,WOLF;
+}
